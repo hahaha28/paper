@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="607.5px" preserveAspectRatio="none" style="width:649px;height:607px;" version="1.1" viewBox="0 0 649 607" width="649.5px" zoomAndPan="magnify"><defs><filter height="300%" id="f1t4roasgrx1bg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="3.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="6.0" dy="6.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[052c89f948ca94e188ae58955c1b368d]
+class MapUtil--><rect codeLine="4" fill="#FEFECE" filter="url(#f1t4roasgrx1bg)" height="184.6721" id="MapUtil" style="stroke:#A80036;stroke-width:2.25;" width="195" x="10.5" y="10.5"/><ellipse cx="71.475" cy="34.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M71.0063,43.5 Q68.1,43.5 66.4125,41.3672 Q64.725,39.2109 64.725,34.7813 Q64.725,31.0313 66.5063,28.5 Q68.2875,25.9688 71.3813,25.9688 Q72.1078,25.9688 72.8578,26.1328 Q73.4672,26.3438 73.8422,26.3438 Q74.1469,26.3438 74.2641,26.3203 Q74.4047,26.2734 75.2016,25.2656 L76.3031,31.6172 L74.85,32.5078 Q74.1,30.1875 73.2328,29.3438 Q72.3891,28.5 71.0297,28.5 Q69.2953,28.5 68.2641,30.2813 Q67.2563,32.0391 67.2563,34.7813 Q67.2563,37.7813 68.1234,39.375 Q68.9906,40.9688 70.9359,40.9688 Q72.3188,40.9688 73.2797,40.125 Q74.2641,39.2578 74.7797,37.1719 L76.3266,37.9453 Q75.7406,40.5703 74.3344,42.0469 Q72.9281,43.5 71.0063,43.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="61.5" x="101.025" y="42.8364">MapUtil</text><line style="stroke:#A80036;stroke-width:2.25;" x1="12" x2="204" y1="58.5" y2="58.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="177" x="19.5" y="83.4089">-Double EARTH_RADIUS</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="73.5" x="19.5" y="105.9434">-String SK</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="75" x="19.5" y="128.4778">-String AK</text><line style="stroke:#A80036;stroke-width:2.25;" x1="12" x2="204" y1="138.1033" y2="138.1033"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="111" x="19.5" y="163.0122">+getWalkTime()</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="106.5" x="19.5" y="185.5466">+getDistance()</text><!--MD5=[6287ff3842f545cf12821eedfbf9f9d1]
+class ParkSearchResultFragment--><rect codeLine="12" fill="#FEFECE" filter="url(#f1t4roasgrx1bg)" height="72" id="ParkSearchResultFragment" style="stroke:#A80036;stroke-width:2.25;" width="277.5" x="258.75" y="66.75"/><ellipse cx="281.25" cy="90.75" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M280.7813,99.75 Q277.875,99.75 276.1875,97.6172 Q274.5,95.4609 274.5,91.0313 Q274.5,87.2813 276.2813,84.75 Q278.0625,82.2188 281.1563,82.2188 Q281.8828,82.2188 282.6328,82.3828 Q283.2422,82.5938 283.6172,82.5938 Q283.9219,82.5938 284.0391,82.5703 Q284.1797,82.5234 284.9766,81.5156 L286.0781,87.8672 L284.625,88.7578 Q283.875,86.4375 283.0078,85.5938 Q282.1641,84.75 280.8047,84.75 Q279.0703,84.75 278.0391,86.5313 Q277.0313,88.2891 277.0313,91.0313 Q277.0313,94.0313 277.8984,95.625 Q278.7656,97.2188 280.7109,97.2188 Q282.0938,97.2188 283.0547,96.375 Q284.0391,95.5078 284.5547,93.4219 L286.1016,94.1953 Q285.5156,96.8203 284.1094,98.2969 Q282.7031,99.75 280.7813,99.75 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="229.5" x="302.25" y="99.0864">ParkSearchResultFragment</text><line style="stroke:#A80036;stroke-width:2.25;" x1="260.25" x2="534.75" y1="114.75" y2="114.75"/><line style="stroke:#A80036;stroke-width:2.25;" x1="260.25" x2="534.75" y1="126.75" y2="126.75"/><!--MD5=[636140077b8eb500ba4793c3f942796b]
+class ParkSearchResultViewModel--><rect codeLine="16" fill="#FEFECE" filter="url(#f1t4roasgrx1bg)" height="94.5344" id="ParkSearchResultViewModel" style="stroke:#A80036;stroke-width:2.25;" width="286.5" x="111.75" y="285"/><ellipse cx="134.25" cy="309" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M133.7813,318 Q130.875,318 129.1875,315.8672 Q127.5,313.7109 127.5,309.2813 Q127.5,305.5313 129.2813,303 Q131.0625,300.4688 134.1563,300.4688 Q134.8828,300.4688 135.6328,300.6328 Q136.2422,300.8438 136.6172,300.8438 Q136.9219,300.8438 137.0391,300.8203 Q137.1797,300.7734 137.9766,299.7656 L139.0781,306.1172 L137.625,307.0078 Q136.875,304.6875 136.0078,303.8438 Q135.1641,303 133.8047,303 Q132.0703,303 131.0391,304.7813 Q130.0313,306.5391 130.0313,309.2813 Q130.0313,312.2813 130.8984,313.875 Q131.7656,315.4688 133.7109,315.4688 Q135.0938,315.4688 136.0547,314.625 Q137.0391,313.7578 137.5547,311.6719 L139.1016,312.4453 Q138.5156,315.0703 137.1094,316.5469 Q135.7031,318 133.7813,318 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="238.5" x="155.25" y="317.3364">ParkSearchResultViewModel</text><line style="stroke:#A80036;stroke-width:2.25;" x1="113.25" x2="396.75" y1="333" y2="333"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="189" x="120.75" y="357.9089">+MutableLiveData parkList</text><line style="stroke:#A80036;stroke-width:2.25;" x1="113.25" x2="396.75" y1="367.5344" y2="367.5344"/><!--MD5=[366bcc89f10b19af49bf67cbfed65627]
+class ParkListAdapter--><rect codeLine="20" fill="#FEFECE" filter="url(#f1t4roasgrx1bg)" height="94.5344" id="ParkListAdapter" style="stroke:#A80036;stroke-width:2.25;" width="178.5" x="450.75" y="285"/><ellipse cx="473.25" cy="309" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M472.7813,318 Q469.875,318 468.1875,315.8672 Q466.5,313.7109 466.5,309.2813 Q466.5,305.5313 468.2813,303 Q470.0625,300.4688 473.1563,300.4688 Q473.8828,300.4688 474.6328,300.6328 Q475.2422,300.8438 475.6172,300.8438 Q475.9219,300.8438 476.0391,300.8203 Q476.1797,300.7734 476.9766,299.7656 L478.0781,306.1172 L476.625,307.0078 Q475.875,304.6875 475.0078,303.8438 Q474.1641,303 472.8047,303 Q471.0703,303 470.0391,304.7813 Q469.0313,306.5391 469.0313,309.2813 Q469.0313,312.2813 469.8984,313.875 Q470.7656,315.4688 472.7109,315.4688 Q474.0938,315.4688 475.0547,314.625 Q476.0391,313.7578 476.5547,311.6719 L478.1016,312.4453 Q477.5156,315.0703 476.1094,316.5469 Q474.7031,318 472.7813,318 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="130.5" x="494.25" y="317.3364">ParkListAdapter</text><line style="stroke:#A80036;stroke-width:2.25;" x1="452.25" x2="627.75" y1="333" y2="333"/><line style="stroke:#A80036;stroke-width:2.25;" x1="452.25" x2="627.75" y1="345" y2="345"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="76.5" x="459.75" y="369.9089">#convert()</text><!--MD5=[6514350f662c4449038ca66fe9e28266]
+class ParkService--><rect codeLine="24" fill="#FEFECE" filter="url(#f1t4roasgrx1bg)" height="117.0688" id="ParkService" style="stroke:#A80036;stroke-width:2.25;" width="145.5" x="182.25" y="469.5"/><ellipse cx="204.75" cy="493.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M204.2813,502.5 Q201.375,502.5 199.6875,500.3672 Q198,498.2109 198,493.7813 Q198,490.0313 199.7813,487.5 Q201.5625,484.9688 204.6563,484.9688 Q205.3828,484.9688 206.1328,485.1328 Q206.7422,485.3438 207.1172,485.3438 Q207.4219,485.3438 207.5391,485.3203 Q207.6797,485.2734 208.4766,484.2656 L209.5781,490.6172 L208.125,491.5078 Q207.375,489.1875 206.5078,488.3438 Q205.6641,487.5 204.3047,487.5 Q202.5703,487.5 201.5391,489.2813 Q200.5313,491.0391 200.5313,493.7813 Q200.5313,496.7813 201.3984,498.375 Q202.2656,499.9688 204.2109,499.9688 Q205.5938,499.9688 206.5547,499.125 Q207.5391,498.2578 208.0547,496.1719 L209.6016,496.9453 Q209.0156,499.5703 207.6094,501.0469 Q206.2031,502.5 204.2813,502.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="97.5" x="225.75" y="501.8364">ParkService</text><line style="stroke:#A80036;stroke-width:2.25;" x1="183.75" x2="326.25" y1="517.5" y2="517.5"/><line style="stroke:#A80036;stroke-width:2.25;" x1="183.75" x2="326.25" y1="529.5" y2="529.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="112.5" x="191.25" y="554.4089">+searchParks()</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="75" x="191.25" y="576.9434">+getPark()</text><!--MD5=[1a831e4300566b05a3a4a8afb70e8453]
+reverse link ParkSearchResultFragment to ParkSearchResultViewModel--><path codeLine="29" d="M364.995,155.91 C340.56,194.745 307.395,247.47 283.89,284.835 " fill="none" id="ParkSearchResultFragment-backto-ParkSearchResultViewModel" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="375.54,139.14,365.6665,143.5575,365.9467,154.3705,375.8202,149.953,375.54,139.14" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[aa26ca73def0e96693488a31baf446e5]
+reverse link ParkSearchResultFragment to ParkListAdapter--><path codeLine="30" d="M430.005,155.91 C454.44,194.745 487.605,247.47 511.11,284.835 " fill="none" id="ParkSearchResultFragment-backto-ParkListAdapter" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="419.46,139.14,419.1798,149.953,429.0533,154.3705,429.3335,143.5575,419.46,139.14" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[acb9d668fee5d87c41f695882f06e86d]
+reverse link ParkSearchResultViewModel to ParkService--><path codeLine="31" d="M255,399.735 C255,422.235 255,447.195 255,468.975 " fill="none" id="ParkSearchResultViewModel-backto-ParkService" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="255,379.92,249,388.92,255,397.92,261,388.92,255,379.92" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[ea179ae8ea84aa2d26e2797c00b807f4]
+@startuml
+'https://plantuml.com/class-diagram
+
+skinparam classAttributeIconSize 0
+class MapUtil{
+-Double EARTH_RADIUS
+-String SK
+-String AK
++getWalkTime()
++getDistance()
+}
+
+class ParkSearchResultFragment{
+
+}
+
+class ParkSearchResultViewModel{
++MutableLiveData parkList
+}
+
+class ParkListAdapter{
+#convert()
+}
+
+class ParkService{
++searchParks()
++getPark()
+}
+
+ParkSearchResultFragment o- - ParkSearchResultViewModel
+ParkSearchResultFragment o- - ParkListAdapter
+ParkSearchResultViewModel o- - ParkService
+
+
+@enduml
+
+@startuml
+
+skinparam classAttributeIconSize 0
+class MapUtil{
+-Double EARTH_RADIUS
+-String SK
+-String AK
++getWalkTime()
++getDistance()
+}
+
+class ParkSearchResultFragment{
+
+}
+
+class ParkSearchResultViewModel{
++MutableLiveData parkList
+}
+
+class ParkListAdapter{
+#convert()
+}
+
+class ParkService{
++searchParks()
++getPark()
+}
+
+ParkSearchResultFragment o- - ParkSearchResultViewModel
+ParkSearchResultFragment o- - ParkListAdapter
+ParkSearchResultViewModel o- - ParkService
+
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 18:25:05 CST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>

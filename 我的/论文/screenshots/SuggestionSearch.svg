@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="562.5px" preserveAspectRatio="none" style="width:583px;height:562px;" version="1.1" viewBox="0 0 583 562" width="583.5px" zoomAndPan="magnify"><defs><filter height="300%" id="f1puw10lej6uba" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="3.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="6.0" dy="6.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[052c89f948ca94e188ae58955c1b368d]
+class MapUtil--><rect codeLine="4" fill="#FEFECE" filter="url(#f1puw10lej6uba)" height="117.0688" id="MapUtil" style="stroke:#A80036;stroke-width:2.25;" width="294" x="10.5" y="424.5"/><ellipse cx="120.375" cy="448.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M119.9063,457.5 Q117,457.5 115.3125,455.3672 Q113.625,453.2109 113.625,448.7813 Q113.625,445.0313 115.4063,442.5 Q117.1875,439.9688 120.2813,439.9688 Q121.0078,439.9688 121.7578,440.1328 Q122.3672,440.3438 122.7422,440.3438 Q123.0469,440.3438 123.1641,440.3203 Q123.3047,440.2734 124.1016,439.2656 L125.2031,445.6172 L123.75,446.5078 Q123,444.1875 122.1328,443.3438 Q121.2891,442.5 119.9297,442.5 Q118.1953,442.5 117.1641,444.2813 Q116.1563,446.0391 116.1563,448.7813 Q116.1563,451.7813 117.0234,453.375 Q117.8906,454.9688 119.8359,454.9688 Q121.2188,454.9688 122.1797,454.125 Q123.1641,453.2578 123.6797,451.1719 L125.2266,451.9453 Q124.6406,454.5703 123.2344,456.0469 Q121.8281,457.5 119.9063,457.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="61.5" x="151.125" y="456.8364">MapUtil</text><line style="stroke:#A80036;stroke-width:2.25;" x1="12" x2="303" y1="472.5" y2="472.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="276" x="19.5" y="497.4089">-SuggestionSearch suggestionSearch</text><line style="stroke:#A80036;stroke-width:2.25;" x1="12" x2="303" y1="507.0344" y2="507.0344"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="153" x="19.5" y="531.9434">+suggestionSearch()</text><!--MD5=[88341330906de8b45c8a8d285e7bc841]
+class SearchFragment--><rect codeLine="9" fill="#FEFECE" filter="url(#f1puw10lej6uba)" height="72" id="SearchFragment" style="stroke:#A80036;stroke-width:2.25;" width="186" x="216" y="10.5"/><ellipse cx="238.5" cy="34.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M238.0313,43.5 Q235.125,43.5 233.4375,41.3672 Q231.75,39.2109 231.75,34.7813 Q231.75,31.0313 233.5313,28.5 Q235.3125,25.9688 238.4063,25.9688 Q239.1328,25.9688 239.8828,26.1328 Q240.4922,26.3438 240.8672,26.3438 Q241.1719,26.3438 241.2891,26.3203 Q241.4297,26.2734 242.2266,25.2656 L243.3281,31.6172 L241.875,32.5078 Q241.125,30.1875 240.2578,29.3438 Q239.4141,28.5 238.0547,28.5 Q236.3203,28.5 235.2891,30.2813 Q234.2813,32.0391 234.2813,34.7813 Q234.2813,37.7813 235.1484,39.375 Q236.0156,40.9688 237.9609,40.9688 Q239.3438,40.9688 240.3047,40.125 Q241.2891,39.2578 241.8047,37.1719 L243.3516,37.9453 Q242.7656,40.5703 241.3594,42.0469 Q239.9531,43.5 238.0313,43.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="138" x="259.5" y="42.8364">SearchFragment</text><line style="stroke:#A80036;stroke-width:2.25;" x1="217.5" x2="400.5" y1="58.5" y2="58.5"/><line style="stroke:#A80036;stroke-width:2.25;" x1="217.5" x2="400.5" y1="70.5" y2="70.5"/><!--MD5=[78d2e3a891b207ae118a5fc57229d3d2]
+class SearchCache--><rect codeLine="12" fill="#FEFECE" filter="url(#f1puw10lej6uba)" height="117.0688" id="SearchCache" style="stroke:#A80036;stroke-width:2.25;" width="205.5" x="357.75" y="424.5"/><ellipse cx="400.5" cy="448.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M400.0313,457.5 Q397.125,457.5 395.4375,455.3672 Q393.75,453.2109 393.75,448.7813 Q393.75,445.0313 395.5313,442.5 Q397.3125,439.9688 400.4063,439.9688 Q401.1328,439.9688 401.8828,440.1328 Q402.4922,440.3438 402.8672,440.3438 Q403.1719,440.3438 403.2891,440.3203 Q403.4297,440.2734 404.2266,439.2656 L405.3281,445.6172 L403.875,446.5078 Q403.125,444.1875 402.2578,443.3438 Q401.4141,442.5 400.0547,442.5 Q398.3203,442.5 397.2891,444.2813 Q396.2813,446.0391 396.2813,448.7813 Q396.2813,451.7813 397.1484,453.375 Q398.0156,454.9688 399.9609,454.9688 Q401.3438,454.9688 402.3047,454.125 Q403.2891,453.2578 403.8047,451.1719 L405.3516,451.9453 Q404.7656,454.5703 403.3594,456.0469 Q401.9531,457.5 400.0313,457.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="112.5" x="426" y="456.8364">SearchCache</text><line style="stroke:#A80036;stroke-width:2.25;" x1="359.25" x2="561.75" y1="472.5" y2="472.5"/><line style="stroke:#A80036;stroke-width:2.25;" x1="359.25" x2="561.75" y1="484.5" y2="484.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="163.5" x="366.75" y="509.4089">+cacheSearchResult()</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="187.5" x="366.75" y="531.9434">+getSearchResultCache()</text><!--MD5=[316d1c4c5372eee6db045e88be4222a5]
+class SearchViewModel--><rect codeLine="17" fill="#FEFECE" filter="url(#f1puw10lej6uba)" height="162.1377" id="SearchViewModel" style="stroke:#A80036;stroke-width:2.25;" width="246" x="186" y="172.5"/><ellipse cx="231.45" cy="196.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M230.9813,205.5 Q228.075,205.5 226.3875,203.3672 Q224.7,201.2109 224.7,196.7813 Q224.7,193.0313 226.4813,190.5 Q228.2625,187.9688 231.3563,187.9688 Q232.0828,187.9688 232.8328,188.1328 Q233.4422,188.3438 233.8172,188.3438 Q234.1219,188.3438 234.2391,188.3203 Q234.3797,188.2734 235.1766,187.2656 L236.2781,193.6172 L234.825,194.5078 Q234.075,192.1875 233.2078,191.3438 Q232.3641,190.5 231.0047,190.5 Q229.2703,190.5 228.2391,192.2813 Q227.2313,194.0391 227.2313,196.7813 Q227.2313,199.7813 228.0984,201.375 Q228.9656,202.9688 230.9109,202.9688 Q232.2938,202.9688 233.2547,202.125 Q234.2391,201.2578 234.7547,199.1719 L236.3016,199.9453 Q235.7156,202.5703 234.3094,204.0469 Q232.9031,205.5 230.9813,205.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="147" x="257.55" y="204.8364">SearchViewModel</text><line style="stroke:#A80036;stroke-width:2.25;" x1="187.5" x2="430.5" y1="220.5" y2="220.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="228" x="195" y="245.4089">+MutableLiveData searchResult</text><line style="stroke:#A80036;stroke-width:2.25;" x1="187.5" x2="430.5" y1="255.0344" y2="255.0344"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="72" x="195" y="279.9434">+search()</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="90" x="195" y="302.4778">+getCache()</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="66" x="195" y="325.0122">+cache()</text><!--MD5=[1d6a7d0b0cdc1ad50f33d206a1c32aea]
+reverse link SearchFragment to SearchViewModel--><path codeLine="24" d="M309,102.6 C309,123.975 309,148.92 309,172.23 " fill="none" id="SearchFragment-backto-SearchViewModel" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="309,82.605,303,91.605,309,100.605,315,91.605,309,82.605" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[d6241c2330e7e56aa7a94263a5aa860a]
+reverse link SearchViewModel to SearchCache--><path codeLine="25" d="M373.725,351.765 C390.285,376.53 407.565,402.375 422.31,424.41 " fill="none" id="SearchViewModel-backto-SearchCache" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="362.415,334.86,362.4282,345.6766,372.4178,349.8247,372.4047,339.0081,362.415,334.86" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[8a52517b34f55da45f6f1907508c3358]
+reverse link SearchViewModel to MapUtil--><path codeLine="26" d="M244.275,351.765 C227.715,376.53 210.435,402.375 195.69,424.41 " fill="none" id="SearchViewModel-backto-MapUtil" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FFFFFF" points="255.585,334.86,245.5953,339.0081,245.5822,349.8247,255.5718,345.6766,255.585,334.86" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[424eb888cc20b255ceab695b004a9917]
+@startuml
+'https://plantuml.com/class-diagram
+skinparam classAttributeIconSize 0
+
+class MapUtil{
+- SuggestionSearch suggestionSearch
++suggestionSearch()
+}
+
+class SearchFragment{
+}
+
+class SearchCache{
++cacheSearchResult()
++getSearchResultCache()
+}
+
+class SearchViewModel{
++MutableLiveData searchResult
++search()
++getCache()
++cache()
+}
+
+SearchFragment o- - SearchViewModel
+SearchViewModel o- - SearchCache
+SearchViewModel o- - MapUtil
+
+@enduml
+
+@startuml
+skinparam classAttributeIconSize 0
+
+class MapUtil{
+- SuggestionSearch suggestionSearch
++suggestionSearch()
+}
+
+class SearchFragment{
+}
+
+class SearchCache{
++cacheSearchResult()
++getSearchResultCache()
+}
+
+class SearchViewModel{
++MutableLiveData searchResult
++search()
++getCache()
++cache()
+}
+
+SearchFragment o- - SearchViewModel
+SearchViewModel o- - SearchCache
+SearchViewModel o- - MapUtil
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 18:25:05 CST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
